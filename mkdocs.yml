@@ -1,6 +1,6 @@
 site_name: AVS test
 nav:
-  - Home: index.md
+  - Home:
     - Home2: index.md
 theme:
   name: material
