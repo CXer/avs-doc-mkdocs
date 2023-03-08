@@ -2,6 +2,7 @@ site_name: AVS test
 nav:
   - Home:
     - Home2: index.md
+    - page: index.md
 theme:
   name: material
   
